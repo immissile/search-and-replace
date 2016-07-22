@@ -1,0 +1,16 @@
+{
+  "name": "find-all-replace",
+  "version": "1.0.0",
+  "description": "关键词全文检索替换，支持批量搜索替换",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Missile",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "lodash": "^4.13.1",
+    "replace": "^0.3.0"
+  }
+}
